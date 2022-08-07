@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./icon.png" alt="NoCab Transfer" width="200"></a>
+  <img src="https://raw.githubusercontent.com/NoCabTransfer/.github/main/profile/icon.png" alt="NoCab Transfer" width="200"></a>
   <br>
     NoCab Transfer
   <br>
@@ -13,7 +13,7 @@ If you tired to carrying unnecessary cables or sending files to empty whatsapp g
 
 <br/>
 <p align="center">
-  <img src="./application.png" alt="Logo">
+  <img src="https://raw.githubusercontent.com/NoCabTransfer/.github/main/profile/application.png" alt="Logo">
 </p>
 
 
