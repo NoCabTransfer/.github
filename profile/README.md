@@ -7,7 +7,6 @@
 </h1>
 
 <h4 align="center">A file sharing app between your devices.</h4>
-<br/>
 
 <h4 align="center"><b>Download Links</b></h4>
 <h4 align="center"><a href="https://apps.microsoft.com/store/detail/nocab-desktop/9MTCSJRJPW1M">Windows</a> | <a href="https://github.com/nocab-transfer/nocab-mobile/releases">Android</a></h4>
