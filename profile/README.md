@@ -27,8 +27,8 @@ If you tired to carrying unnecessary cables or sending files to empty whatsapp g
 - Transfer files between your devices.
 - Multiple processes at the same time.
 - Multiple file transfer at the same process.
-- Banning unwanted devices.
 - Customize your theme what you want.
+- Banning unwanted devices. _(Will be working on)_
 - Remember device for future transfers. (Do not show permission box) _(Will be working on)_
 - Customized condutions. (Shutdown computer when download is done etc.) _(Will be working on)_
 > If you have an idea feel free to open issue or contribute to project
