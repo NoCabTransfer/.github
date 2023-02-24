@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/NoCabTransfer/.github/main/profile/icon.png" alt="NoCab Transfer" width="200"></a>
+  <img src="https://raw.githubusercontent.com/NoCabTransfer/.github/main/profile/icon.png" alt="NoCab Transfer" width="120"></a>
   <br>
     NoCab Transfer
   <br>
@@ -15,6 +15,8 @@
 <br/>
 
 If you tired to carrying unnecessary cables or sending files to empty whatsapp groups. NoCab Transfer is for you! You can transfer all your files between your phone and your computer and your files will not be sent any other server. Just you and your devices 🤫
+
+> **Warning**: Due to personal reasons the development process has slowed down. I'm really sorry for anyone waiting for the features to be integrated. I'll be back after I fix them. Thanks! 
 
 <br/>
 <p align="center">
@@ -38,8 +40,6 @@ If you tired to carrying unnecessary cables or sending files to empty whatsapp g
 
 ## This project still under development. 
 
-<br/>
-<br/>
 <br/>
 <br/>
 
