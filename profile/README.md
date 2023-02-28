@@ -9,7 +9,7 @@
 <h4 align="center">A file sharing app between your devices.</h4>
 
 <h4 align="center"><b>Download Links</b></h4>
-<h4 align="center"><a href="https://github.com/nocab-transfer/nocab-desktop/releases">Windows</a> | <a href="https://github.com/nocab-transfer/nocab-mobile/releases">Android</a></h4>
+<h4 align="center"><a href="https://github.com/nocab-transfer/nocab-desktop#installing">Windows</a> | <a href="https://github.com/nocab-transfer/nocab-mobile/releases">Android</a></h4>
 
 <h5 align="center"><i>No current plans for other platforms.</i></h5>
 <br/>
